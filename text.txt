@@ -1,0 +1,9 @@
+Docs: updated Readme
+Fix: validating input for leap year test
+style: Added chalk library
+feat: introduced level based challenges
+refactor: renaming variable to questions
+
+
+Git is change tracking mechanism on your machine
+github is a repository on a cloud
